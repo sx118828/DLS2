@@ -1,6 +1,7 @@
 # DLS2
-## Данные проекты были выполнены в Deep Learning School (ML, DL, CV)
+## Данные проекты были выполнены в Deep Learning School (NLP, Audio)
 
 |Название проекта                     |Направление деятельности   |Используемые инструменты     | Задачи проекта                                                      |
 |:------------------------------------|:--------------------------|:----------------------------|:--------------------------------------------------------------------|
-|1. [Библиотека sklearn и классификация с помощью KNN](https://github.com/sx118828/DLS1/blob/main/1.%20knn/%5Bhomework%5Dknn.ipynb)|`Data Scientist`|*pandas, numpy, sklearn*|Подобрать параметры модели: а) по сетке от 1 до 10 параметр числа соседей; б) использоввать различные метрики: ['manhattan', 'euclidean']; в) использовать различные стратегии вычисления весов: [‘uniform’, ‘distance’]|
+|1. [Simple embeddings](https://github.com/sx118828/DLS1/blob/main/1.%20knn/%5Bhomework%5Dknn.ipynb)|`Data Scientist`|*zipfile, os, gensim, numpy, re, math
+, ampligraph, matplotlib, pandas, sklearn, tqdm, nltk*|Поиска схожих по смыслу предложений, задача ранжирования(Learning to Rank)|
